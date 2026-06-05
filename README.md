@@ -73,36 +73,103 @@ const miguel = {
 
 ---
 
-## 📌 Proyecto Destacado
+## 📌 Proyectos
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3>🦾 ZkBio — Control de Acceso para Gimnasio</h3>
-      <p>Sistema web para la gestión de entrada y salida de usuarios mediante autenticación por huella digital, integrado con dispositivos biométricos ZkBio.</p>
-      <h4>Características:</h4>
-      <ul>
-        <li>✅ Registro de usuarios y membresías</li>
-        <li>✅ Control de horarios y accesos</li>
-        <li>✅ Dashboard administrativo con métricas clave</li>
-        <li>✅ Alertas de membresías por vencer</li>
-        <li>✅ Gestión de precios</li>
-      </ul>
-      <p>
-        <b>Stack:</b>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <br><br><br>
-      <p><b>🚀 Próximamente más proyectos</b></p>
-      <br><br><br>
-    </td>
-  </tr>
-</table>
+### 🛒 Plataforma E-commerce
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=datadog&logoColor=white"/>
+</p>
+
+Una tienda online lista para usar. Cargas tus productos, recibes pagos y administras los pedidos desde un solo lugar.
+
+Pensada para emprendedores que quieren vender por internet sin complicaciones. Subes las fotos de tus productos, pones los precios y listo. Cuando alguien compra, te llega la notificación al panel y ves todo: quién fue, qué compró y dónde lo enviaste. Como está armada con microservicios, cuando tu negocio crezca, la plataforma crece con vos sin necesidad de reconstruir nada.
+
+**Características:**
+- 📸 Cargas tus productos con fotos, precios y descripciones
+- 💳 Tus clientes pagan de forma segura desde la web
+- 📦 Administras los pedidos desde un panel sencillo
+- 📋 Queda registrado el historial de ventas y clientes
+- 📈 Crece con tu negocio, sin límites ni complicaciones
+
+<p align="right">
+  <a href="https://github.com/MiguelU-coder/E-Commerce-MicroServ.git"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 💊 Control de Inventario para Farmacias
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_Forms-0078D6?style=flat&logo=windows&logoColor=white"/>
+</p>
+
+Mantén el control de tu farmacia sin complicaciones: medicamentos, ventas y proveedores en un solo programa.
+
+Hecho para dueños de farmacia que necesitan orden sin volverse locos con Excel. Con este programa registras una venta en segundos, ves al instante qué medicamentos te quedan y cuáles tienes que pedir ya. Si eres empleado, vendes rápido y consultas el stock sin complicarte. Si eres el dueño, ves las ganancias, controlas los proveedores, sabes qué es lo que más se vende y gestionas los lotes por vencer. Todo simple y ordenado.
+
+**Características:**
+- 💊 Registras ventas al instante y consultas el stock disponible
+- ⏰ Te alerta sobre medicamentos próximos a vencer
+- 📊 Dueño: revisas ganancias, reportes y productos más vendidos
+- 👨‍🔬 Empleado: vendes y consultas stock sin complicaciones
+- 📦 Controlas proveedores y lotes de medicamentos
+
+<p align="right">
+  <a href="https://github.com/Nikollg205/Sistema_De_Gestion_Para_Farmacias.git"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🎱 Bingo Virtual — Juego en Tiempo Real
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SHA--256-FF8800?style=flat&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=websocket&logoColor=white"/>
+</p>
+
+Bingo online multijugador con hasta 100 jugadores por sala y resultados verificables.
+
+Plataforma de bingo multijugador con aleatoriedad demostrable mediante criptografía SHA-256. Cada partida tiene 17 figuras de bingo, máquina de balotas en 3D, y un registro inmutable tipo blockchain. Incluye panel de administración y modo espectador.
+
+**Características:**
+- 🎮 Juegas con hasta 100 personas en la misma sala, todo en tiempo real
+- 🔐 Cada resultado es verificable: el sistema garantiza transparencia
+- 🎯 17 figuras de bingo distintas para partidas variadas
+- 🎰 Máquina de balotas en 3D animada mientras salen los números
+- 📊 Panel de administración: control, estadísticas y verificación
+- 👁️ Modo espectador para seguir el juego sin participar
+
+<p align="right">
+  <a href="https://github.com/MiguelU-coder/Bingo-Virtual"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🦾 ZkBio — Control de Acceso para Gimnasio
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ZkBio-FF6C37?style=flat&logo=biometrics&logoColor=white"/>
+</p>
+
+Sistema web para la gestión de entrada y salida de usuarios mediante autenticación por huella digital, integrado con dispositivos biométricos ZkBio.
+
+**Características:**
+- ✅ Registro de usuarios y membresías
+- ✅ Control de horarios y accesos
+- ✅ Dashboard administrativo con métricas clave
+- ✅ Alertas de membresías por vencer
+- ✅ Gestión de precios
 
 ---
 
