@@ -103,10 +103,10 @@ Pensada para emprendedores que quieren vender por internet sin complicaciones. S
 
 ### 💊 Control de Inventario para Farmacias
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows_Forms-0078D6?style=flat&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java_Swing-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
 Mantén el control de tu farmacia sin complicaciones: medicamentos, ventas y proveedores en un solo programa.
