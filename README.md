@@ -1,227 +1,171 @@
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6&height=200&section=header&text=Miguel%20Molina&fontSize=60&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=55&animation=twinkling"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Miguel%20Molina&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
+
+<a href="https://github.com/MiguelU-coder">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Construyo+aplicaciones+web+modernas+%F0%9F%9A%80;Dashboards%2C+APIs+REST+y+tiempo+real+%E2%9A%A1;C%C3%B3digo+limpio+y+buenas+pr%C3%A1cticas+%F0%9F%A7%A9;Siempre+aprendiendo+algo+nuevo+%F0%9F%93%9A" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/miguel-molina-ab3344394"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mm6035673@icloud.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=icloud&logoColor=38BDF8"/></a>
+<a href="https://github.com/MiguelU-coder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=MiguelU-coder&color=0ea5e9&style=for-the-badge&label=VISITAS"/>
+
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/miguel-molina-ab3344394">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mm6035673@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MiguelU-coder">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
----
-
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 ## 👨‍💻 Sobre mí
 
-Soy desarrollador web full-stack de **Colombia** con experiencia en la creación de aplicaciones modernas, dashboards administrativos y sistemas backend robustos. Me apasiona escribir código limpio, soluciones funcionales y seguir buenas prácticas de desarrollo.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-```javascript
+Soy desarrollador **full-stack** de **Bogotá, Colombia** 🇨🇴. Me gusta convertir ideas en productos reales: aplicaciones web modernas, paneles administrativos y backends sólidos que escalan.
+
+- 🎓 Estudiante de **Ingeniería de Software**
+- 💼 Desarrollador en **NexCoda**, agencia de software para emprendedores y pymes
+- 🧱 Fan de la arquitectura en capas, las APIs bien diseñadas y el código limpio
+- 🌎 Inglés **B2**
+- 🤝 Abierto a proyectos freelance y colaboraciones
+
+</td>
+<td width="42%" valign="top">
+
+```ts
 const miguel = {
-  code: ["JavaScript", "TypeScript", "C#", "Java", "HTML", "CSS"],
-  frontend: ["React", "Next.js", "Redux", "Bootstrap", "Tailwind CSS", "jQuery"],
-  backend: ["Node.js", "Express.js", "REST APIs"],
+  role: "Full-Stack Developer",
+  location: "Bogotá, CO",
+  code: ["TypeScript", "JavaScript", "Java", "C#"],
+  frontend: ["React", "Next.js", "Redux", "Tailwind"],
+  backend: ["Node.js", "Express", "GraphQL"],
   databases: ["PostgreSQL", "MongoDB", "Supabase"],
-  tools: ["Git", "GitHub", "Postman", "Vercel", "Linux", "Windows"],
-  architecture: ["SPA", "MVC", "API REST", "JWT Auth"],
+  architecture: ["MVC", "REST", "JWT", "Microservices"],
+  currently: "Aprendiendo algo nuevo cada día",
 };
 ```
 
----
+</td>
+</tr>
+</table>
 
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
 ## 🛠️ Tech Stack
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
+<div align="center">
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
-</p>
+**Lenguajes**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,java,cs,html,css&theme=dark" />
 
-### Bases de datos
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,jquery&theme=dark" />
 
-### Herramientas
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</p>
+**Backend & Bases de datos**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,supabase&theme=dark" />
 
----
+**Herramientas**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,npm,linux,windows&theme=dark" />
 
-## 📌 Proyectos
+</div>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+## 🚀 Proyectos destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛒 Plataforma E-commerce
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=datadog&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Microservicios-FF6C37?style=flat-square"/>
 
-Una tienda online lista para usar. Cargas tus productos, recibes pagos y administras los pedidos desde un solo lugar.
+Tienda online lista para usar: cargas tus productos, recibes pagos y administras los pedidos desde un solo panel. Su arquitectura de microservicios permite que crezca con tu negocio sin reconstruir nada.
 
-Pensada para emprendedores que quieren vender por internet sin complicaciones. Subes las fotos de tus productos, pones los precios y listo. Cuando alguien compra, te llega la notificación al panel y ves todo: quién fue, qué compró y dónde lo enviaste. Como está armada con microservicios, cuando tu negocio crezca, la plataforma crece con vos sin necesidad de reconstruir nada.
+- 📸 Productos con fotos, precios y descripciones
+- 💳 Pagos seguros desde la web
+- 📦 Panel de pedidos e historial de ventas
 
-**Características:**
-- 📸 Cargas tus productos con fotos, precios y descripciones
-- 💳 Tus clientes pagan de forma segura desde la web
-- 📦 Administras los pedidos desde un panel sencillo
-- 📋 Queda registrado el historial de ventas y clientes
-- 📈 Crece con tu negocio, sin límites ni complicaciones
+<a href="https://github.com/MiguelU-coder/E-Commerce-MicroServ"><img src="https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<p align="right">
-  <a href="https://github.com/MiguelU-coder/E-Commerce-MicroServ.git"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+### 🎱 Bingo Virtual en Tiempo Real
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/SHA--256-FF8800?style=flat-square"/>
 
-### 💊 Control de Inventario para Farmacias
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java_Swing-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</p>
+Bingo multijugador con hasta 100 jugadores por sala y aleatoriedad verificable mediante SHA-256, con registro inmutable tipo blockchain.
 
-Mantén el control de tu farmacia sin complicaciones: medicamentos, ventas y proveedores en un solo programa.
+- 🎰 Máquina de balotas 3D animada
+- 🎯 17 figuras de bingo distintas
+- 📊 Panel admin y modo espectador
 
-Hecho para dueños de farmacia que necesitan orden sin volverse locos con Excel. Con este programa registras una venta en segundos, ves al instante qué medicamentos te quedan y cuáles tienes que pedir ya. Si eres empleado, vendes rápido y consultas el stock sin complicarte. Si eres el dueño, ves las ganancias, controlas los proveedores, sabes qué es lo que más se vende y gestionas los lotes por vencer. Todo simple y ordenado.
+<a href="https://github.com/MiguelU-coder/Bingo-Virtual"><img src="https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-**Características:**
-- 💊 Registras ventas al instante y consultas el stock disponible
-- ⏰ Te alerta sobre medicamentos próximos a vencer
-- 📊 Dueño: revisas ganancias, reportes y productos más vendidos
-- 👨‍🔬 Empleado: vendes y consultas stock sin complicaciones
-- 📦 Controlas proveedores y lotes de medicamentos
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="right">
-  <a href="https://github.com/Nikollg205/Sistema_De_Gestion_Para_Farmacias.git"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+### 💊 Inventario para Farmacias
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Swing-ED8B00?style=flat-square"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white"/>
 
----
+Medicamentos, ventas y proveedores en un solo programa. Registras ventas en segundos y sabes al instante qué debes pedir.
 
-### 🎱 Bingo Virtual — Juego en Tiempo Real
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SHA--256-FF8800?style=flat&logo=security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=websocket&logoColor=white"/>
-</p>
+- ⏰ Alertas de lotes próximos a vencer
+- 📊 Dueño: ganancias y más vendidos
+- 👨‍🔬 Empleado: ventas y consulta de stock
 
-Bingo online multijugador con hasta 100 jugadores por sala y resultados verificables.
+<a href="https://github.com/Nikollg205/Sistema_De_Gestion_Para_Farmacias"><img src="https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-Plataforma de bingo multijugador con aleatoriedad demostrable mediante criptografía SHA-256. Cada partida tiene 17 figuras de bingo, máquina de balotas en 3D, y un registro inmutable tipo blockchain. Incluye panel de administración y modo espectador.
+</td>
+<td width="50%" valign="top">
 
-**Características:**
-- 🎮 Juegas con hasta 100 personas en la misma sala, todo en tiempo real
-- 🔐 Cada resultado es verificable: el sistema garantiza transparencia
-- 🎯 17 figuras de bingo distintas para partidas variadas
-- 🎰 Máquina de balotas en 3D animada mientras salen los números
-- 📊 Panel de administración: control, estadísticas y verificación
-- 👁️ Modo espectador para seguir el juego sin participar
+### 🦾 ZkBio — Acceso para Gimnasios
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
-<p align="right">
-  <a href="https://github.com/MiguelU-coder/Bingo-Virtual"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+Control de entrada y salida por huella digital, integrado con dispositivos biométricos ZkBio.
 
----
-
-### 🦾 ZkBio — Control de Acceso para Gimnasio
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ZkBio-FF6C37?style=flat&logo=biometrics&logoColor=white"/>
-</p>
-
-Sistema web para la gestión de entrada y salida de usuarios mediante autenticación por huella digital, integrado con dispositivos biométricos ZkBio.
-
-**Características:**
-- ✅ Registro de usuarios y membresías
+- ✅ Usuarios, membresías y precios
 - ✅ Control de horarios y accesos
-- ✅ Dashboard administrativo con métricas clave
-- ✅ Alertas de membresías por vencer
-- ✅ Gestión de precios
+- ✅ Dashboard con métricas y alertas de vencimiento
 
----
+<img src="https://img.shields.io/badge/Repositorio_privado-334155?style=for-the-badge&logo=lock&logoColor=white"/>
 
-## 📊 GitHub Analytics
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MiguelU-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelU-coder&theme=dark&hide_border=false&background=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelU-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MiguelU-coder&theme=onedark&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 🎓 Formación
-
-- 🏫 **Ingeniería de Software** — Actualmente cursando
-- 📜 Cursos certificados en React, Node.js y Full-Stack Web Development
-
----
-
-## 📫 Contacto
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="mailto:mm6035673@icloud.com">
-          <img src="https://img.shields.io/badge/Email-mm6035673@icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/miguel-molina-ab3344394">
-          <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Molina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MiguelU-coder&color=blue&style=flat-square&label=Profile+Views"/>
-  <br><br>
-  <i>"Siempre abierto a nuevos proyectos y colaboraciones."</i>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6&height=120&section=footer"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MiguelU-coder&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelU-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8"/>
+
+<img src="https://streak-stats.demolab.com?user=MiguelU-coder&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelU-coder&bg_color=0d1117&color=38BDF8&line=0ea5e9&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
+## 📫 Hablemos
+
+<div align="center">
+
+¿Tienes un proyecto en mente o quieres colaborar? Escríbeme 👇
+
+<a href="mailto:mm6035673@icloud.com"><img src="https://img.shields.io/badge/mm6035673@icloud.com-0f172a?style=for-the-badge&logo=icloud&logoColor=38BDF8"/></a>
+<a href="https://www.linkedin.com/in/miguel-molina-ab3344394"><img src="https://img.shields.io/badge/Miguel_Molina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+<i>"Siempre abierto a nuevos proyectos y colaboraciones."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
 </div>
