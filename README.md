@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Miguel Molina — Full-Stack Web Developer"/>
+<img src="./header.svg" width="100%" alt="Miguel Molina — Full-Stack Web Developer"/>
 
 <a href="https://www.linkedin.com/in/miguel-molina-ab3344394"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mm6035673@icloud.com"><img src="https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=icloud&logoColor=38BDF8"/></a>
@@ -11,12 +11,12 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## ⚡ `> whoami`
 
 <div align="center">
-  <img src="./assets/terminal.svg" width="88%" alt="Terminal animada"/>
+  <img src="./terminal.svg" width="88%" alt="Terminal animada"/>
 </div>
 
 <table>
